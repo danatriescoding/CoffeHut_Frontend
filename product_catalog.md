@@ -1,1 +1,1 @@
-# Manage product descriptions and related pictures and prices. 
+# Manage product descriptions and related pictures. 
